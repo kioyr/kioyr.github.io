@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kioyr.github.io/gbb/sitemap.gbb.gz
